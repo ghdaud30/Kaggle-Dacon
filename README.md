@@ -9,6 +9,8 @@
 [주식차트분석](https://colab.research.google.com/drive/1b1664zv0Zt4DFQN7brw7Rto5KyMNobj0?usp=drive_link)
 [항공데이터분석](https://colab.research.google.com/drive/1Qw0czZPArP-_UumY1lnYutXdpJdIt2GA?usp=drive_link)
 [캘리포니아](https://colab.research.google.com/drive/1nivz2BMxjf3ODmdYXVxmMR1-ap49dQdH?usp=drive_link) 
+[타이타닉](https://colab.research.google.com/drive/1-tpN13N8Ye3MRK1MQMLmXYfH5iXOPW1I?usp=drive_link)
+
 ## Kaggle Competition
 
 ## Notebook
